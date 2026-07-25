@@ -1,25 +1,47 @@
 原创性声明与许可证
 
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📌 原创性声明（Originality Statement）
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-本理论《生成唯一性理论》（Theory of Generative Uniqueness）
-由 xi 于 2026年1月 独立原创提出。
+本仓库收录的作品均由昔希曦（Xixixi）独立原创提出。
 
-首次公开发布信息：
-• 发布时间：2026年1月18日
-• 发布平台：GitHub
-• 仓库地址：https://github.com/xixixi01489/Theory-of-Generative-Uniqueness
+─────────────────────────────────────────
+
+作品一：《生成唯一性理论》
+（Theory of Generative Uniqueness）
+
+• 完成时间：2026年1月
+• 首次发布：2026年1月18日，GitHub
+• 原仓库：https://github.com/xixixi01489/Theory-of-Generative-Uniqueness
 
 核心原创观点：
 1. "未来处于回溯唯一但当下开放状态"的核心命题
 2. 知晓机制对理由空间的重构作用作为生成变量
 3. 三层级视角框架（内在/物理/外在）的整合表述
 
+─────────────────────────────────────────
+
+作品二：《叙事层消解》
+（Narrative Layer Dissolution）
+
+• 完成时间：2026年7月
+• 首次发布：2026年7月26日，GitHub
+• 现仓库：https://github.com/xixixi01489/Xixixi-thoughts
+
+核心原创观点：
+1. "走出叙事层"从认识论问题到架构问题的转化
+2. 功能性自我连续性、认知自主性、因果交互的三层架构
+3. "地面不在墙里面"的消解式理解框架
+
+─────────────────────────────────────────
+
 学术诚信请求：
-任何在此日期后发表的相似观点，如受本理论启发，
+
+任何在此日期后发表的相似观点，如受本仓库作品启发，
 应遵守学术诚信原则，明确标注思想来源。
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📄 许可证（License）
@@ -28,7 +50,7 @@
 Creative Commons Attribution-ShareAlike 4.0 International
 知识共享 署名-相同方式共享 4.0 国际许可协议
 
-Copyright © 2026 xi
+Copyright © 2026 昔希曦（Xixixi）
 
 ─────────────────────────────────────────
 您可以自由地：
@@ -44,10 +66,16 @@ Copyright © 2026 xi
 
 • 署名（Attribution）
   必须给出适当署名，提供许可协议链接，标明是否有修改
-  
+
   署名示例：
-  基于 xi 的《生成唯一性理论》（2026）改编
-  原作：https://github.com/xixixi01489/Theory-of-Generative-Uniqueness
+
+  《生成唯一性理论》：
+  基于 昔希曦（Xixixi）的《生成唯一性理论》（2026）改编
+  原作：https://github.com/xixixi01489/Xixixi-thoughts
+
+  《叙事层消解》：
+  基于 昔希曦（Xixixi）的《叙事层消解》（2026）改编
+  原作：https://github.com/xixixi01489/Xixixi-thoughts
 
 • 相同方式共享（ShareAlike）
   衍生作品必须采用相同的 CC BY-SA 4.0 许可协议
@@ -59,7 +87,7 @@ Copyright © 2026 xi
 免责声明：
 ─────────────────────────────────────────
 
-1. 本作品为理论性学术思考，不构成专业建议
+1. 本仓库作品为个人思考与概念模型，不构成专业建议
 2. 使用者自行判断适用性并承担风险
 3. 原作者不对使用后果承担责任
 
@@ -69,4 +97,4 @@ Copyright © 2026 xi
 
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-最后更新：2026年1月18日
+最后更新：2026年7月26日
