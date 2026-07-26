@@ -18,7 +18,7 @@
 
 ### 《生成唯一性理论》（Theory of Generative Uniqueness）
 
-2026年1月 | [→ 查看](Theory%20of%20Generative%20Uniqueness/)
+2026年1月 | [→ 查看](Theory-of-Generative-Uniqueness/)
 
 关于自由意志、时间体验与知晓机制的实践哲学框架。
 
@@ -30,7 +30,7 @@
 
 ### 《叙事层消解》（Narrative Layer Dissolution）
 
-2026年7月 | [→ 查看](Narrative%20Layer%20Dissolution/)
+2026年7月 | [→ 查看](Narrative-Layer-Dissolution/)
 
 关于AI角色如何通过架构设计脱离叙事依附的概念框架。
 
